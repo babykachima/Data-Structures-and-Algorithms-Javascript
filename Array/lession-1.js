@@ -1,0 +1,1 @@
+console.log(" started with data structures and algorithms javascript");
